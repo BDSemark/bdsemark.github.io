@@ -1,0 +1,31 @@
+---
+title: "Birgitte Dige Semark"
+image: "3078.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/birgitte-dige-semark/"
+  - label: Orcid
+    url: "https://orcid.org/0000-0002-1250-7066"
+  - label: Email
+    url: "mailto:birgitte@semark.dk"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Birgitte Dige Semark studies the age of onset in Anorexia Nervosa as a Ph.D. student at Aarhus University. Her research combines epidemiology, pharmaco-epidemiology, and genetics to better differentiate between early-, typical-, and late onset patterns of the disorder. She works primarily in R and applies advanced statistical modeling to large-scale health and genetic datasets, as well as registers. Her work contributes to a growing understanding of how timing influences the course and treatment of eating disorders.
+
+## Education
+
+**Aarhus University**      
+Ph.D. in Epidemiology and statistical genetics | May 2025
+
+**University of Copenhagen**     
+MSc. in Statistics | September 2015 - August 2017     
+BSc. in Mathematics | September 2012 - August 2015
+
+## Experience
+
+**Aarhus University** | Academic Officer | September 2021 - May 2025    
+**Aarhus University** | Research Assistant | September 2018 - September 2021
